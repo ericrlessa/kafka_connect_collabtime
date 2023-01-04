@@ -236,3 +236,15 @@ WARNING: Unmatched cancel notification for request id 304
 2023.01.04 00:54:44 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/ProductController.java[0m
 2023.01.04 00:56:31 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/Product.java[0m
 2023.01.04 00:56:34 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/Product.java[0m
+2023.01.04 16:38:28 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/Product.java[0m
+2023.01.04 16:38:35 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/ProductRepository.java[0m
+2023.01.04 16:38:36 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/ProductMysqlApplication.java[0m
+2023.01.04 16:38:36 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/ProductController.java[0m
+2023.01.04 16:38:49 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/Product.java[0m
+2023.01.04 16:38:51 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/ProductRepository.java[0m
+2023.01.04 16:38:53 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/Product.java[0m
+2023.01.04 16:38:56 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/ProductController.java[0m
+2023.01.04 16:45:42 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/ProductMysqlApplication.java[0m
+2023.01.04 17:22:48 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/ProductController.java[0m
+2023.01.04 17:22:52 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/Product.java[0m
+2023.01.04 17:22:56 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mysql/src/main/java/com/collabtime/product_mysql/ProductController.java[0m

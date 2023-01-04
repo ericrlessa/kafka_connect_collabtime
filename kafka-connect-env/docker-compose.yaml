@@ -2,7 +2,7 @@ version: "3"
 
 services:  
   mysql:
-    image: wesleywillians/mysql-kafka-connect:latest
+    image: mysql:5.7
     command: --innodb-use-native-aio=0
     tty: true
     restart: always
@@ -11,9 +11,10 @@ services:
     environment:
       - MYSQL_DATABASE=productdb
       - MYSQL_ROOT_PASSWORD=root
-      - MYSQL_USER=root
     extra_hosts:
       - "host.docker.internal:172.17.0.1"
+    volumes:
+      - ./my.cnf:/etc/my.cnf
 
   zookeeper:
     image: confluentinc/cp-zookeeper:latest
