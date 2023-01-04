@@ -1,0 +1,261 @@
+2023.01.03 21:50:06 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/.metals/lsp.trace.json or /home/ericrlessa/.cache/metals/lsp.trace.json[0m
+2023.01.03 21:50:07 INFO  logging to file /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/.metals/metals.log[0m
+2023.01.03 21:50:07 INFO  Started: Metals version 0.11.10 in workspace '/home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/ericrlessa/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.03 21:50:08 INFO  time: initialize in 1.63s[0m
+2023.01.03 21:50:11 WARN  Build server is not auto-connectable.[0m
+2023.01.03 21:50:11 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:50:11 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 21:50:11 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:50:13 INFO  time: code lens generation in 2.09s[0m
+2023.01.03 21:50:20 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+Jan 03, 2023 9:50:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2023.01.03 21:50:22 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:50:27 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:50:28 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:50:33 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.03 21:50:40 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:50:43 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:50:44 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:50:45 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:50:45 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:50:55 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:50:55 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:50:57 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:53:36 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:53:45 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:53:48 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+Jan 03, 2023 9:53:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 180
+2023.01.03 21:54:01 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 21:54:03 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 21:54:28 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 21:55:10 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:55:13 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:55:16 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:55:20 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:55:34 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:55:39 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:55:51 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:55:57 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+Jan 03, 2023 9:56:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/spring-data-commons-3.0.0.jar/org.springframework.data.querydsl/QuerydslPredicateExecutor.class?%3Dproduct_mongodb%2F%5C%2Fhome%5C%2Fericrlessa%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fspringframework%5C%2Fdata%5C%2Fspring-data-commons%5C%2F3.0.0%5C%2Fspring-data-commons-3.0.0.jar%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3D%2Fjavadoc_location%3D%2Fjar%3Afile%3A%5C%2Fhome%5C%2Fericrlessa%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fspringframework%5C%2Fdata%5C%2Fspring-data-commons%5C%2F3.0.0%5C%2Fspring-data-commons-3.0.0-javadoc.jar%5C%21%5C%2F%3D%2F%3D%2Fmaven.groupId%3D%2Forg.springframework.data%3D%2F%3D%2Fmaven.artifactId%3D%2Fspring-data-commons%3D%2F%3D%2Fmaven.version%3D%2F3.0.0%3D%2F%3D%2Fmaven.scope%3D%2Fcompile%3D%2F%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3Corg.springframework.data.querydsl%28QuerydslPredicateExecutor.class"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:119)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:158)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:609)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:606)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1200)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+2023.01.03 21:56:29 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 21:56:33 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 21:56:33 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:56:34 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:56:35 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:56:43 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:56:48 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:56:54 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:56:58 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:57:04 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:57:08 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:57:49 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:57:50 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 21:58:25 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 21:58:27 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 21:58:31 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 21:58:49 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:58:54 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:58:55 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:58:57 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:58:58 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:59:26 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:59:38 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:59:42 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:59:54 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 21:59:54 WARN  Running javac-semanticdb failed for file:///home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java. Output:
+/home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java:19: error: ',', ')', or '[' expected
+    public Product(Integer idm String name, BigDecimal price) {
+                              ^
+1 error[0m
+2023.01.03 21:59:55 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:00:03 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:00:05 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:00:06 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:00:14 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:00:15 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:00:15 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:00:57 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:01:35 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:01:38 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:01:43 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:01:47 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:01:49 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:02:17 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:02:20 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:02:21 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:02:25 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:02:27 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:02:29 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:02:31 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 22:05:01 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 22:05:02 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 22:52:19 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.03 22:55:07 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.03 22:55:13 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.03 22:55:15 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.03 22:56:16 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 22:56:16 WARN  Running javac-semanticdb failed for file:///home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java. Output:
+/home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java:19: error: ')' or ',' expected
+        productRepository.findAll().forEach(System.out.println(););;
+                                                                ^
+/home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java:19: error: illegal start of expression
+        productRepository.findAll().forEach(System.out.println(););;
+                                                                 ^
+2 errors[0m
+2023.01.03 22:56:22 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 22:56:23 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 23:08:28 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+Jan 03, 2023 11:16:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1197
+2023.01.03 23:16:12 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 23:16:15 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 23:16:17 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 23:17:59 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 23:18:10 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 23:18:14 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 23:18:16 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 23:19:23 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.03 23:19:24 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.03 23:19:24 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.03 23:19:27 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.04 00:02:05 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:02:09 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+Jan 04, 2023 12:02:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1464
+Jan 04, 2023 12:02:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1467
+Jan 04, 2023 12:02:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1468
+2023.01.04 00:02:38 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:02:49 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:02:51 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:02:54 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:02:55 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:02:58 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:03:14 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:03:17 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:03:18 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:03:20 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:04:01 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:04:01 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:04:01 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:04:04 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:04:05 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:04:05 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:04:39 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:04:59 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:05:04 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:05:04 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:05:07 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.04 00:05:53 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:06:31 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:08:10 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:08:11 INFO  time: code lens generation in 1.02s[0m
+2023.01.04 00:09:08 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:10:02 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.04 00:10:03 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:10:10 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:10:27 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:10:30 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:10:31 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:10:44 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:10:46 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:10:46 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:10:46 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:10:51 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:10:56 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:12:11 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:12:13 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:12:14 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/HomeController.java[0m
+2023.01.04 00:14:03 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.04 00:15:47 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:16:02 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:16:04 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:16:04 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.04 00:16:04 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.04 00:16:06 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:16:06 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:16:07 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:16:07 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.04 00:16:08 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:16:52 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:16:53 WARN  Running javac-semanticdb failed for file:///home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java. Output:
+/home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java:28: error: ';' expected
+        model.addAttribute("products", products)
+                                                ^
+1 error[0m
+2023.01.04 00:16:55 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:03 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:23 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:30 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:31 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:37 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:46 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:48 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:48 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:48 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:49 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:49 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:49 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:52 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:52 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:52 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:53 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:53 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:53 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:53 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:17:55 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:30:26 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductController.java[0m
+2023.01.04 00:57:39 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.04 00:59:43 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.04 01:17:54 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
+2023.01.04 01:30:38 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.04 01:30:39 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.04 01:30:42 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.04 01:30:48 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/Product.java[0m
+2023.01.04 01:30:49 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductRepository.java[0m
+2023.01.04 01:30:50 WARN  no build target for: /home/ericrlessa/Workspaces/collabteam/kafka_connect/product_mongodb/src/main/java/com/collabtime/product_mongodb/ProductMongodbApplication.java[0m
